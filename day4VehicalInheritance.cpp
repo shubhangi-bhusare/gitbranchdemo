@@ -1,3 +1,4 @@
+cpp assignment 
 //Vehicle Inheritance:
 //Problem Statement: Develop a class hierarchy for vehicles. Start with a base class 
 //Vehicle and create derived classes like Car, Motorcycle, and Truck. Each derived class should have
